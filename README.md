@@ -1,3 +1,54 @@
-I28gT2FzaXMg77iP
+# Oasis 🏝️
 
-T2FzaXMgaXMgYSBtb2Rlcm4gUmVhY3QgYXBwbGljYXRpb24gcG93ZXJlZCBieSBHb29nbGUncyBHZW1pbmkgQUkuIEl0IHByb3ZpZGVzIGFuIGludGVsbGlnZW50LCBjb252ZXJzYXRpb25hbCBpbnRlcmZhY2UgZm9yIHVzZXJzIHRvIGludGVyYWN0IHdpdGggYWR2YW5jZWQgbGFuZ3VhZ2UgbW9kZWxzIGluIGEgc2VhbWxlc3MgYW5kIHJlc3BvbnNpdmUgZW52aXJvbm1lbnQuCgojIyDwnm9mIEZlYXR1cmVzCgotICoqSW50ZWxsaWdlbnQgQ29udmVyc2F0aW9ucyoqOiBMZXZlcmFnaW5nIGBncm9vay1haS9nZW5haWAtIGZvciBzb3BoaXN0aWNhdGVkIEFJIGludGVyYWN0aW9ucy4KLSAqKk1vZGVybiBVSS9VWCoqOiBCdWlsdCB3aXRoICoqUmVhY3QgMTkqKSwgKipUYWlsd2luZCBDU1MqKSwgYW5kICoqRnJhbWVyIE1vdGlvbioqIGZvciBzbW9vdGgsIGJlYXV0aWZ1bCBhbmltYXRpb25zLgotICoqVml0ZSBQb3dlcmVkKio6IFVsdHJhLWZhc3QgZGV2ZWxvcG1lbnQgYW5kIG9wdGltaXplZCBwcm9kdWN0aW9uIGJ1aWxkcy4KLSAqKlR5cGUgU2FmZSoqOiBGdWxseSBpbXBsZW1lbnRlZCB3aXRoICoqVHlwZVNjcmlwdCoqLgoKIyMg8J+eqCBVcHBlciBDYXNlIFRlY2ggU3RhY2sKCi0gKipGcm9udGVuZCoqOiBSZWFjdCAxOSwgVml0ZSwgVHlwZVNjcmlwdAotICoqU3R5bGluZyoqOiBUYWlsd2luZCBDU1MsIEx1Y2lkZSBSZWFjdCAoSWNvbnMpCi0gKipBbmltYXRpb24qKjogRnJhbWVyIE1vdGlvbiAoTW90aW9uKQotICoqQUkgSW50ZWdyYXRpb24qKjogR29vZ2xlIEdlbWluaSBBSSAoR2VuQUkpCi0gKipCYWNrZW5kKio6IEV4cHJlc3MgKE5vZGUuanMpCgojIyDwnpOiIEdldHRpbmcgU3RhcnRlZAoKIyMjIFByZXJlcXVpc2l0ZXMKCi0gTm9kZS5qcyAodjE4IG9yIGhpZ2hlcikKLSBucG0gb3IgeWFybgotIEdvb2dsZSBHZW1pbmkgQVBJIEtleQoKIyMjIEluc3RhbGxhdGlvbgoxLiBDbG9uZSB0aGUgcmVwb3NpdG9yeToKICAgYmFzaAogICBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL01vYWRoOTkyL09hc2lzLmdpdAogICBjZCBPYXNpcwogICAKMi4gSW5zdGFsbCBkZXBlbmRlbmNpZXM6CiAgIGJhc2gKICAgbnBtIGluc3RhbGwKICAgCjMuIENvbmZpZ3VyZSBlbnZpcm9ubWVudCB2YXJpYWJsZXM6CiAgIENyZWF0ZSBhIGAuZW52YCBmaWxlIGluIHRoZSByb290IGRpcmVjdG9yeSBhbmQgYWRkIHlvdXIgR2VtaW5pIEFQSSBrZXk6CiAgIGVudgogICBHRU1JTklfQVBJX0tFWT15b3VyX2FwaV9rZXlfaGVyZQogICAKNC4gU3RhcnQgdGhlIGRldmVsb3BtZW50IHNlcnZlcjoKICAgYmFzaAogICBucG0gcnVuIGRldgogICAKIyMg8J+TiyBMaWNlbnNlCgpUaGlzIHByb2plY3QgaXMgbGljZW5zZWQgdW5kZXIgdGhlIE1JVCBMaWNlbnNlLgo=
+Oasis is a modern React application powered by Google's Gemini AI. It provides an intelligent, conversational interface for users to interact with advanced language models in a seamless and responsive environment.
+
+## 🚀 Features
+
+- **Intelligent Conversations**: Leveraging Google Gemini AI for sophisticated AI interactions.
+- **Modern UI/UX**: Built with **React 19**, **Tailwind CSS**, and **Framer Motion** for smooth, beautiful animations.
+- **Vite Powered**: Ultra-fast development and optimized production builds.
+- **Type Safe**: Fully implemented with **TypeScript**.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, Vite, TypeScript
+- **Styling**: Tailwind CSS, Lucide React (Icons)
+- **Animation**: Framer Motion (Motion)
+- **AI Integration**: Google Gemini AI (GenAI)
+- **Backend**: Express (Node.js)
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+- Google Gemini API Key
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Moadh992/Oasis.git
+   cd Oasis
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Configure environment variables:
+   Create a `.env` file in the root directory and add your Gemini API key:
+   ```env
+   GEMINI_API_KEY=your_api_key_here
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📄 License
+
+This project is licensed under the MIT License.
